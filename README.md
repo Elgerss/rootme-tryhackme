@@ -211,3 +211,7 @@ shell de usuario en acceso total al sistema. Los principales aprendizajes son:
 - La revisión de SUID es una etapa esencial después del acceso inicial.
 - La defensa efectiva requiere capas: validación de entradas, aislamiento,
   mínimo privilegio, actualización y monitorización.
+
+## Máquina completada en TryHackMe
+
+![Máquina RootMe completada en TryHackMe](img/Completada.png)
